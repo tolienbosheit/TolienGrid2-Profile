@@ -12,8 +12,8 @@ EarthShield: Brown Border.
 Heal Target: Pink Border.  
 CH Bounces: Bright Blue Border, lasts 1.5s.  Can adjust in AOE Heals.  
 Curse/Magic: Icon Upper left Corners.  
-White HP: No Heals incoming.  
-Green HP: Heals Incoming, + or - on whether its a predictive overheal or underheal.  
+White Text HP, Below Name: No Heals incoming.  
+Green Text HP, Below Name: Heals Incoming, + or - on whether its a predictive overheal or underheal.  
 HoTs: Lower Left to Center Left Icons
 Ancestral Fort/Inspiration: Upper Right Icon
 Bandaged: Right Icon
