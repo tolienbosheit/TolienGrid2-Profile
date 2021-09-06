@@ -25,3 +25,28 @@ The rest should be fairly straight forward.
 
 
 [TolienGrid2-Profile Layout.pdf](https://github.com/tolienbosheit/TolienGrid2-Profile/files/7113828/TolienGrid2-Profile.Layout.pdf)
+
+
+SSC/TK Debuffs
+Strike-throughs are debuffs I don't think are worth tracking on the UI.
+
+__SSC__
+Vile Sludge, Hydross (38246)
+Whirlwind, Leotheras (37641)
+Chaos Blast [Warlocks Only], Leotheras (37675)
+Watery Grave, Morogrim (37850, seeing 4 spellID on WCL but can only use one)
+Poison Bolt, Vashj Elementals (38253)
+Static Charge, Vashj (38281)
+Persuasion, Vashj (38511)
+
+~~Insidious Whisper, Leotheras (37676)~~
+~~Leeching Throw, Karathress (29436)~~
+~~Entangle, Vashj (38316)~~
+
+
+__TK__
+Melt Armor, Alar (35410)
+Wrath of the Astromancer, Solarian (33044)
+Conflagration, Kael'Thas (37018)
+
+~~Flame Buffet, Alar (34121)~~
