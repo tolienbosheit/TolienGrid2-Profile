@@ -21,3 +21,7 @@ Forbearance: Right Icon
 Healing Way: Lower Right Icon
 Weakened Soul: Lower Right Icon
 The rest should be fairly straight forward.  
+
+
+
+[TolienGrid2-Profile Layout.pdf](https://github.com/tolienbosheit/TolienGrid2-Profile/files/7113828/TolienGrid2-Profile.Layout.pdf)
